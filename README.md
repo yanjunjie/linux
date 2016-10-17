@@ -1,2 +1,2 @@
-# linux
+# other tool
 #test
